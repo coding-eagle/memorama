@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="game_over.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6260"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff1e1e;stop-opacity:1;"
+         offset="0"
+         id="stop6258" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6260"
+       id="linearGradient6262"
+       x1="222.36328"
+       y1="118.7472"
+       x2="337.75391"
+       y2="118.7472"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-100"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4518"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff1e1e;fill-opacity:1;stroke:#000000;stroke-width:1.87195933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.778772,0,0,1.3911064,-391.94458,-100.77722)"
+       inkscape:export-xdpi="60.999546"
+       inkscape:export-ydpi="60.999546"><flowRegion
+         id="flowRegion4520"
+         style="fill:#ff1e1e;fill-opacity:1;stroke:#000000;stroke-width:1.87195933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+           id="rect4522"
+           width="354.28571"
+           height="125.71429"
+           x="102.85714"
+           y="71.09111"
+           style="fill:#ff1e1e;fill-opacity:1;stroke:#000000;stroke-width:1.87195933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4524"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:center;text-anchor:middle;fill:#ff1e1e;fill-opacity:1;stroke:#000000;stroke-width:1.87195933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">GAME</flowPara><flowPara
+         id="flowPara4526"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:center;text-anchor:middle;fill:#ff1e1e;fill-opacity:1;stroke:#000000;stroke-width:1.87195933;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">OVER</flowPara></flowRoot>  </g>
+</svg>
